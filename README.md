@@ -1,1 +1,15 @@
 # icml_repo
+- Table 1: 2 layer - 10 dataset with avg. accuracy scores
+- Table 2: 2 layer - 10 dataset with weighted f1 scores
+- Table 3: 2 layer - 3 social dataset with avg. accuracy scores with GraphGPS
+- Table 4: 2 layer - 3 social dataset with weighted f1 scores with GraphGPS
+- Table 5: 2 layer - 10 dataset with 5 baseline avg. accuracy score
+- Table 6: 2 layer - 10 dataset with 5 baseline weighted f1 score
+- Table 7: 3 layer - 10 dataset with avg. accuracy scores & GraphGPS
+- Table 8: 3 layer - 10 dataset with weighted f1 scores & GraphGPS
+- Table 9: 2 layer - LRGB dataset; func use AP, struct use MAE
+- Table 10: Dataset statistics include PH preprocessing time + 3 social + 2 LRGB + 10 biological/chemical dataset
+- Table 11 2 layer - 10 dataset run time
+- Table 12 2 layer - 10 dataset GPU mem tables
+- Table 13 3 layer - 10 dataset run time
+- Table 14 3 layer - 10 dataset GPU mem tables
